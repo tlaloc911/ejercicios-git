@@ -1,4 +1,4 @@
-# ejercicios-git
+# ejercicios-git v2
 
 Version inicial
 
